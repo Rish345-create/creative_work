@@ -36,6 +36,10 @@ I enjoy blending technology with creativity to design engaging campaigns, advert
 ⭐ Feel free to explore the folders to view my work.
 
 ## Featured Posters
-![Nykaa Poster](Posters/Nykaa-poster.png)
+![Nykaa Poster](creative_work/Nykaa poster.png)
+![Monsoon Poster](creative_work/Monsoon campaign.png)
+![Maggi Poster](creative_work/Maggi Poster.jpeg)
+
+
 
 
