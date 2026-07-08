@@ -34,3 +34,8 @@ I'm Rishita Rathi, an engineering student passionate about frontend development,
 I enjoy blending technology with creativity to design engaging campaigns, advertisements, and user-focused products.
 
 ⭐ Feel free to explore the folders to view my work.
+
+## Featured Posters
+![Nykaa Poster](Posters/Nykaa-poster.png)
+
+
